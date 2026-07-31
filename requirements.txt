@@ -1,1 +1,3 @@
-bot.py
+python-telegram-bot
+requests
+
